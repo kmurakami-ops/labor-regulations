@@ -14,7 +14,7 @@ git pull
 　・コマンドプロンプトに入力
 
 　
-git add 取締役に関する内規.docx
+git add 1.就業規則/MGS（Lifework編）.docx
 git commit -m "誤字修正"
 git push
 
@@ -23,8 +23,8 @@ git commit -m "フォルダ構成変更"
 git push
 
 
-git add Githubについて.txt
-git commit -m "情報追加"
+git add 
+git commit -m "初期構成"
 git push
 
 
