@@ -1,0 +1,19 @@
+◆フォルダ
+C:\Users\mguser\labor-regulations
+
+
+
+◆
+git pull
+
+◆データファイルを修正する
+
+
+◆GitHubに登録する
+　・””内に変更内容を記入してコピーする
+　・コマンドプロンプトに入力
+
+　
+git add .
+git commit -m "取締役に関する内規_誤字修正"
+git push
